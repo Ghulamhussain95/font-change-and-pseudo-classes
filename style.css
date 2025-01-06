@@ -4,6 +4,9 @@
     font-weight: 300;
     font-style: normal;
   }
+  h1{
+    text-shadow: 2px 2px 2px #e95c5c;
+  }
   /* unvisited link */
 a:link {
     color: #FF0000;
