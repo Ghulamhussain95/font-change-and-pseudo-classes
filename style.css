@@ -1,6 +1,7 @@
-.poppins-thin {
-    font-family: "Poppins", serif;
-    font-weight: 100;
+.space-grotesk-<uniquifier> {
+    font-family: "Space Grotesk", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
     font-style: normal;
   }
   /* unvisited link */
