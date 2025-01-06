@@ -1,7 +1,7 @@
-.space-grotesk-<uniquifier> {
+.space-grotesk {
     font-family: "Space Grotesk", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 300;
     font-style: normal;
   }
   /* unvisited link */
